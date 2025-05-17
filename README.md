@@ -1,1 +1,2 @@
 # mylinks
+Este laboratorio nos permite preparar nuestro entorno técnico de desarrollo, desde la configuración inicial de Git, hasta la conexión con GitHub y la creación de una estructura mínima del proyecto MyLinks. Es la base para trabajar profesionalmente con control de versiones y documentación.
