@@ -1,0 +1,14 @@
+body {
+    font-family: "Poetsen One", sans-serif;
+    background-color: #eaeff1; /* Fondo más suave */
+    color: #333333;
+    margin: 0;
+    padding: 0;
+  }
+  
+    header {
+    background-color: #1f2d3d;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+  }
